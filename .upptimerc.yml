@@ -1,8 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Your GitHub organization or username, where this repository lives
+owner: solutions2az
+# The name of this repository
+repo: 2az-status
 
 sites:
+# Solutions2AZ
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -11,26 +14,32 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+# Cuba
+
+
+# Venezuela
+
+
+# Colombia
+
+
+# SIP Services
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: solutions2az.github.io/2az-status
+  baseUrl: /2az-status
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Solutions2AZ - Status Page
+  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: Main
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Solutions2AZ
+      href: https://www.solutions2az.net
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
