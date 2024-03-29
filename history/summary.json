@@ -4,19 +4,19 @@
     "url": "https://www.solutions2az.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.solutions2az.net.ico",
     "slug": "solutions2-az",
-    "status": "down",
-    "uptime": "1.07%",
-    "uptimeDay": "1.07%",
-    "uptimeWeek": "1.07%",
-    "uptimeMonth": "1.07%",
-    "uptimeYear": "1.07%",
-    "time": 508,
-    "timeDay": 508,
-    "timeWeek": 508,
-    "timeMonth": 508,
-    "timeYear": 508,
+    "status": "up",
+    "uptime": "14.40%",
+    "uptimeDay": "14.40%",
+    "uptimeWeek": "14.40%",
+    "uptimeMonth": "14.40%",
+    "uptimeYear": "14.40%",
+    "time": 524,
+    "timeDay": 524,
+    "timeWeek": 524,
+    "timeMonth": 524,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2024-03-29": 2
+      "2024-03-29": 9
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.com.ico",
     "slug": "llamar-cuba",
     "status": "down",
-    "uptime": "92.80%",
-    "uptimeDay": "92.80%",
-    "uptimeWeek": "92.80%",
-    "uptimeMonth": "92.80%",
-    "uptimeYear": "92.80%",
+    "uptime": "26.61%",
+    "uptimeDay": "26.61%",
+    "uptimeWeek": "26.61%",
+    "uptimeMonth": "26.61%",
+    "uptimeYear": "26.61%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-29": 0
+      "2024-03-29": 8
     }
   }
 ]
