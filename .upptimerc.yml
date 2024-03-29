@@ -41,5 +41,24 @@ status-website:
     - title: Solutions2AZ
       href: https://www.solutions2az.net
 
+# Issues are automatically closed once they are resolved, however if they are open for less 
+# than 15 minutes they are deleted instead.
+skipDeleteIssues: true
+
+# The syntax followed is that of cron.
+# Every 5 minutes
+workflowSchedule:
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
+  updateTemplate: "*/5 * * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
+
+# Removing the footer
+i18n:
+  footer: ""
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
