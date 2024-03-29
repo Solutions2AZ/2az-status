@@ -5,6 +5,58 @@ owner: solutions2az
 repo: 2az-status
 
 sites:
+# Cuba
+  - name: LlamarCuba
+    url: https://www.llamarcuba.com
+#   - name: ConectandoCuba
+#     url: https://www.conectandocuba.com
+#   - name: HablandoACuba
+#     url: https://www.hablandoacuba.com
+#   - name: HablandoCuba
+#     url: https://www.hablandocuba.com
+#   - name: LlamadasCuba
+#     url: https://www.llamadascuba.com
+#   - name: LlamadasCubanas
+#     url: https://www.llamadascubanas.com
+
+# Venezuela
+#   - name: CallingVenezuela
+#     url: https://www.callingvenezuela.com
+#   - name: ConectandoVenezuela
+#     url: https://www.conectandovenezuela.com
+#   - name: ConectateAVenezuela
+#     url: https://www.conectateavenezuela.com
+#   - name: HablaConVenezuela
+#     url: https://www.hablaconvenezuela.com
+#   - name: HablandoConVenezuela
+#     url: https://www.hablandoconvenezuela.com
+#   - name: LlamadasAVenezuela
+#     url: https://www.llamadasavenezuela.com
+
+# Colombia
+#   - name: HablaConColombia
+#     url: https://www.hablaconcolombia.com
+#   - name: LlamadasAColombia
+#     url: https://www.llamadasacolombia.com
+#   - name: LlamadasColombia
+#     url: https://www.llamadascolombia.com
+#   - name: LlamarAColombia
+#     url: https://www.llamaracolombia.com
+#   - name: LlamarColombia
+#     url: https://www.llamarcolombia.com
+
+# SIP Services
+#   - name: LoopSIPAdvantage
+#     url: https://www.loopsipadvantage.com
+#   - name: RecordVoicePRO
+#     url: https://www.recordvoicepro.com
+#   - name: SIPConnection
+#     url: https://www.sipconnection.com
+#   - name: SIPTransformers
+#     url: https://www.siptransformers.com
+#   - name: SIPHubServices
+#     url: https://www.siphubservices.com
+
 # Solutions2AZ
   - name: Solutions2AZ
     url: https://www.solutions2az.net
@@ -12,19 +64,12 @@ sites:
       - 200
       - 201
       - 404
-
-# Cuba
-  - name: LlamarCuba
-    url: https://www.llamarcuba.com
-
-# Venezuela
-
-
-# Colombia
-
-
-# SIP Services
-
+#   - name: Call2AZ - Main
+#     url: https://www.call2az.net
+#   - name: Call2AZ - Manager
+#     url: https://manager.call2az.net
+#   - name: Call2AZ - API
+#     url: https://api.call2az.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
