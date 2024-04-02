@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.com.ico",
     "slug": "llamar-cuba",
     "status": "down",
-    "uptime": "55.99%",
+    "uptime": "55.92%",
     "uptimeDay": "1.37%",
-    "uptimeWeek": "55.99%",
-    "uptimeMonth": "55.99%",
-    "uptimeYear": "55.99%",
+    "uptimeWeek": "55.92%",
+    "uptimeMonth": "55.92%",
+    "uptimeYear": "55.92%",
     "time": 523,
-    "timeDay": 479,
+    "timeDay": 475,
     "timeWeek": 523,
     "timeMonth": 523,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2024-04-02": 1150,
+      "2024-04-02": 1157,
       "2024-04-01": 1388,
       "2024-03-31": 213
     }
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 551,
-    "timeDay": 543,
-    "timeWeek": 551,
-    "timeMonth": 551,
-    "timeYear": 551,
+    "time": 552,
+    "timeDay": 544,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {}
   }
 ]
