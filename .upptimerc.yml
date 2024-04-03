@@ -91,14 +91,13 @@ status-website:
 skipDeleteIssues: true
 
 # The syntax followed is that of cron.
-# Every 5 minutes
 workflowSchedule:
-  graphs: "*/5 * * * *"
-  responseTime: "*/5 * * * *"
-  staticSite: "*/5 * * * *"
-  summary: "*/5 * * * *"
-  updateTemplate: "*/5 * * * *"
-  updates: "*/5 * * * *"
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
   uptime: "*/5 * * * *"
 
 # Removing the footer
