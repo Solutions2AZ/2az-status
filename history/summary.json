@@ -4,18 +4,20 @@
     "url": "https://www.llamarcuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.com.ico",
     "slug": "llamar-cuba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 509,
-    "timeDay": 494,
+    "timeDay": 491,
     "timeWeek": 509,
     "timeMonth": 509,
     "timeYear": 509,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-04": 0
+    }
   },
   {
     "name": "Solutions2AZ",
