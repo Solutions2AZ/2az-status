@@ -66,6 +66,12 @@ sites:
       - 200
       - 201
       - 404
+  - name: Solutions2AZ-es
+    url: https://www.solutions2az.es
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 #   - name: Call2AZ - Main
 #     url: https://www.call2az.net
 #   - name: Call2AZ - Manager
