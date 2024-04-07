@@ -69,7 +69,7 @@ sites:
   - name: Solutions2AZ-es
     url: https://www.solutions2az.es
 # Disable the certificate check    
-    __dangerous__disable_verify_peer: true
+    __dangerous__insecure: true
     expectedStatusCodes:
       - 200
       - 201
