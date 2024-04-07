@@ -68,6 +68,8 @@ sites:
       - 404
   - name: Solutions2AZ-es
     url: https://www.solutions2az.es
+# Disable the certificate check    
+    __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
       - 201
