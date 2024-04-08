@@ -76,10 +76,10 @@ sites:
       - 404
 #   - name: Call2AZ - Main
 #     url: https://www.call2az.net
-   - name: Call2AZ - Manager
-     url: https://manager.call2az.net
-   - name: Call2AZ - API
-     url: https://manager-api.call2az.net/api/Info/VersionString
+  - name: Call2AZ - Manager
+    url: https://manager.call2az.net
+  - name: Call2AZ - API
+    url: https://manager-api.call2az.net/api/Info/VersionString
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
