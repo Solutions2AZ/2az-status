@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.com.ico",
     "slug": "llamar-cuba-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 952,
     "timeDay": 834,
     "timeWeek": 952,
     "timeMonth": 952,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 11
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://www.conectandocuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.conectandocuba.com.ico",
     "slug": "conectando-cuba",
-    "status": "down",
-    "uptime": "98.37%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.37%",
-    "time": 643,
-    "timeDay": 643,
-    "timeWeek": 643,
-    "timeMonth": 643,
-    "timeYear": 643,
+    "status": "up",
+    "uptime": "95.41%",
+    "uptimeDay": "95.41%",
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "95.41%",
+    "uptimeYear": "95.41%",
+    "time": 632,
+    "timeDay": 632,
+    "timeWeek": 632,
+    "timeMonth": 632,
+    "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-04-10": 6
+      "2024-04-10": 16
     }
   },
   {
@@ -70,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 560,
     "timeDay": 932,
-    "timeWeek": 611,
+    "timeWeek": 613,
     "timeMonth": 560,
     "timeYear": 560,
     "dailyMinutesDown": {}
