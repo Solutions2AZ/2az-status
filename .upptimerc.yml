@@ -12,14 +12,14 @@ sites:
     url: https://www.llamarcuba.es
   - name: ConectandoCuba
     url: https://www.conectandocuba.com
-#   - name: HablandoACuba
-#     url: https://www.hablandoacuba.com
-#   - name: HablandoCuba
-#     url: https://www.hablandocuba.com
-#   - name: LlamadasCuba
-#     url: https://www.llamadascuba.com
-#   - name: LlamadasCubanas
-#     url: https://www.llamadascubanas.com
+  - name: HablandoACuba
+    url: https://www.hablandoacuba.com
+  - name: HablandoCuba
+    url: https://www.hablandocuba.com
+  - name: LlamadasCuba
+    url: https://www.llamadascuba.com
+  - name: LlamadasCubanas
+    url: https://www.llamadascubanas.com
 
 # Venezuela
 #   - name: CallingVenezuela
