@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.com.ico",
     "slug": "llamar-cuba-com",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 861,
     "timeDay": 712,
-    "timeWeek": 788,
+    "timeWeek": 781,
     "timeMonth": 861,
     "timeYear": 861,
-    "dailyMinutesDown": {
-      "2024-04-15": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LlamarCuba-es",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.es.ico",
     "slug": "llamar-cuba-es",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 806,
     "timeDay": 658,
-    "timeWeek": 784,
+    "timeWeek": 785,
     "timeMonth": 806,
     "timeYear": 806,
-    "dailyMinutesDown": {
-      "2024-04-15": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ConectandoCuba",
@@ -142,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 681,
     "timeDay": 2564,
-    "timeWeek": 1895,
+    "timeWeek": 1918,
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {}
@@ -160,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 266,
-    "timeWeek": 224,
+    "timeWeek": 225,
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -178,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 815,
     "timeDay": 827,
-    "timeWeek": 812,
+    "timeWeek": 816,
     "timeMonth": 815,
     "timeYear": 815,
     "dailyMinutesDown": {}
@@ -196,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 648,
     "timeDay": 679,
-    "timeWeek": 645,
+    "timeWeek": 648,
     "timeMonth": 648,
     "timeYear": 648,
     "dailyMinutesDown": {}
