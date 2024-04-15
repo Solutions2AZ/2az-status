@@ -4,36 +4,40 @@
     "url": "https://www.llamarcuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.com.ico",
     "slug": "llamar-cuba-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 864,
-    "timeDay": 714,
-    "timeWeek": 791,
-    "timeMonth": 864,
-    "timeYear": 864,
-    "dailyMinutesDown": {}
+    "time": 860,
+    "timeDay": 689,
+    "timeWeek": 786,
+    "timeMonth": 860,
+    "timeYear": 860,
+    "dailyMinutesDown": {
+      "2024-04-15": 0
+    }
   },
   {
     "name": "LlamarCuba-es",
     "url": "https://www.llamarcuba.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.es.ico",
     "slug": "llamar-cuba-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 647,
-    "timeWeek": 787,
-    "timeMonth": 808,
-    "timeYear": 808,
-    "dailyMinutesDown": {}
+    "time": 805,
+    "timeDay": 629,
+    "timeWeek": 783,
+    "timeMonth": 805,
+    "timeYear": 805,
+    "dailyMinutesDown": {
+      "2024-04-15": 0
+    }
   },
   {
     "name": "ConectandoCuba",
