@@ -4,126 +4,140 @@
     "url": "https://www.llamarcuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.com.ico",
     "slug": "llamar-cuba-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 1112,
-    "timeWeek": 810,
-    "timeMonth": 884,
-    "timeYear": 884,
-    "dailyMinutesDown": {}
+    "time": 881,
+    "timeDay": 1061,
+    "timeWeek": 805,
+    "timeMonth": 881,
+    "timeYear": 881,
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "LlamarCuba-es",
     "url": "https://www.llamarcuba.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.es.ico",
     "slug": "llamar-cuba-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 647,
-    "timeWeek": 761,
-    "timeMonth": 793,
-    "timeYear": 793,
-    "dailyMinutesDown": {}
+    "time": 791,
+    "timeDay": 637,
+    "timeWeek": 757,
+    "timeMonth": 791,
+    "timeYear": 791,
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "ConectandoCuba",
     "url": "https://www.conectandocuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.conectandocuba.com.ico",
     "slug": "conectando-cuba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 749,
-    "timeWeek": 707,
-    "timeMonth": 707,
-    "timeYear": 707,
-    "dailyMinutesDown": {}
+    "time": 703,
+    "timeDay": 727,
+    "timeWeek": 703,
+    "timeMonth": 703,
+    "timeYear": 703,
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "HablandoACuba",
     "url": "https://www.hablandoacuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hablandoacuba.com.ico",
     "slug": "hablando-a-cuba",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 729,
-    "timeDay": 733,
-    "timeWeek": 729,
-    "timeMonth": 729,
-    "timeYear": 729,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 723,
+    "timeDay": 705,
+    "timeWeek": 723,
+    "timeMonth": 723,
+    "timeYear": 723,
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "HablandoCuba",
     "url": "https://www.hablandocuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hablandocuba.com.ico",
     "slug": "hablando-cuba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 680,
-    "timeWeek": 692,
-    "timeMonth": 692,
-    "timeYear": 692,
-    "dailyMinutesDown": {}
+    "time": 687,
+    "timeDay": 660,
+    "timeWeek": 687,
+    "timeMonth": 687,
+    "timeYear": 687,
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "LlamadasCuba",
     "url": "https://www.llamadascuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.llamadascuba.com.ico",
     "slug": "llamadas-cuba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 753,
-    "timeWeek": 766,
-    "timeMonth": 766,
-    "timeYear": 766,
-    "dailyMinutesDown": {}
+    "time": 760,
+    "timeDay": 732,
+    "timeWeek": 760,
+    "timeMonth": 760,
+    "timeYear": 760,
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "LlamadasCubanas",
     "url": "https://www.llamadascubanas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.llamadascubanas.com.ico",
     "slug": "llamadas-cubanas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 723,
-    "timeWeek": 722,
-    "timeMonth": 722,
-    "timeYear": 722,
-    "dailyMinutesDown": {}
+    "time": 715,
+    "timeDay": 696,
+    "timeWeek": 715,
+    "timeMonth": 715,
+    "timeYear": 715,
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "Solutions2AZ",
@@ -166,9 +180,9 @@
     "url": "https://manager.call2az.net",
     "icon": "https://icons.duckduckgo.com/ip3/manager.call2az.net.ico",
     "slug": "call2-az-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,16 +191,18 @@
     "timeWeek": 813,
     "timeMonth": 815,
     "timeYear": 815,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "Call2AZ - API",
     "url": "https://manager-api.call2az.net/api/Info/VersionString",
     "icon": "https://icons.duckduckgo.com/ip3/manager-api.call2az.net.ico",
     "slug": "call2-az-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,6 +211,8 @@
     "timeWeek": 660,
     "timeMonth": 652,
     "timeYear": 652,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   }
 ]
