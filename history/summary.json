@@ -4,18 +4,20 @@
     "url": "https://www.llamarcuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.com.ico",
     "slug": "llamar-cuba-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 1183,
-    "timeWeek": 816,
-    "timeMonth": 892,
-    "timeYear": 892,
-    "dailyMinutesDown": {}
+    "time": 887,
+    "timeDay": 1200,
+    "timeWeek": 809,
+    "timeMonth": 887,
+    "timeYear": 887,
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "LlamarCuba-es",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 794,
-    "timeDay": 645,
+    "timeDay": 632,
     "timeWeek": 760,
     "timeMonth": 794,
     "timeYear": 794,
