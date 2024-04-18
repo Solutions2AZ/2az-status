@@ -130,9 +130,9 @@
     "url": "https://www.solutions2az.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.solutions2az.net.ico",
     "slug": "solutions2-az",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 2540,
     "timeMonth": 761,
     "timeYear": 761,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 0
+    }
   },
   {
     "name": "Solutions2AZ-es",
