@@ -152,10 +152,10 @@
     "url": "https://manager.call2az.net",
     "icon": "https://icons.duckduckgo.com/ip3/manager.call2az.net.ico",
     "slug": "call2-az-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 834,
@@ -163,16 +163,18 @@
     "timeWeek": 777,
     "timeMonth": 834,
     "timeYear": 834,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-07": 1
+    }
   },
   {
     "name": "Call2AZ - API",
     "url": "https://manager-api.call2az.net/api/Info/VersionString",
     "icon": "https://icons.duckduckgo.com/ip3/manager-api.call2az.net.ico",
     "slug": "call2-az-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -181,6 +183,8 @@
     "timeWeek": 621,
     "timeMonth": 634,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-07": 0
+    }
   }
 ]
