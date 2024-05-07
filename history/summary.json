@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 783,
     "timeDay": 770,
-    "timeWeek": 737,
+    "timeWeek": 738,
     "timeMonth": 760,
     "timeYear": 783,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 699,
     "timeDay": 751,
-    "timeWeek": 710,
+    "timeWeek": 712,
     "timeMonth": 699,
     "timeYear": 699,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 704,
     "timeDay": 823,
-    "timeWeek": 729,
+    "timeWeek": 731,
     "timeMonth": 704,
     "timeYear": 704,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 662,
     "timeDay": 709,
-    "timeWeek": 674,
+    "timeWeek": 675,
     "timeMonth": 662,
     "timeYear": 662,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 704,
     "timeDay": 746,
-    "timeWeek": 714,
+    "timeWeek": 716,
     "timeMonth": 704,
     "timeYear": 704,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 704,
     "timeDay": 757,
-    "timeWeek": 714,
+    "timeWeek": 716,
     "timeMonth": 704,
     "timeYear": 704,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "99.94%",
     "time": 1119,
     "timeDay": 2244,
-    "timeWeek": 2681,
+    "timeWeek": 2679,
     "timeMonth": 2365,
     "timeYear": 1119,
     "dailyMinutesDown": {
@@ -153,18 +153,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/manager.call2az.net.ico",
     "slug": "call2-az-manager",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.83%",
+    "uptimeDay": "95.01%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 869,
     "timeDay": 1773,
-    "timeWeek": 926,
+    "timeWeek": 929,
     "timeMonth": 869,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2024-05-07": 42
+      "2024-05-07": 73
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/manager-api.call2az.net.ico",
     "slug": "call2-az-api",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.81%",
+    "uptimeDay": "94.25%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 634,
     "timeDay": 625,
-    "timeWeek": 622,
+    "timeWeek": 625,
     "timeMonth": 634,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-05-07": 52
+      "2024-05-07": 83
     }
   }
 ]
