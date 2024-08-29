@@ -201,19 +201,19 @@
     "url": "https://sms-api.solutions2az.net/swagger/v1/swagger.json",
     "icon": "https://icons.duckduckgo.com/ip3/sms-api.solutions2az.net.ico",
     "slug": "sms-2-az-api",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 569,
-    "timeDay": 569,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "status": "up",
+    "uptime": "2.06%",
+    "uptimeDay": "2.06%",
+    "uptimeWeek": "2.06%",
+    "uptimeMonth": "2.06%",
+    "uptimeYear": "2.06%",
+    "time": 518,
+    "timeDay": 518,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2024-08-29": 28
+      "2024-08-29": 29
     }
   },
   {
