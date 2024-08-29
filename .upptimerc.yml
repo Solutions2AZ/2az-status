@@ -8,8 +8,8 @@ sites:
 # Cuba
   - name: LlamarCuba-com
     url: https://www.llamarcuba.com
-#   - name: LlamarCuba-es
-#     url: https://www.llamarcuba.es
+  - name: LlamarCuba-es
+    url: https://www.llamarcuba.es
   - name: ConectandoCuba
     url: https://www.conectandocuba.com
   - name: HablandoACuba
@@ -62,10 +62,6 @@ sites:
 # Solutions2AZ
   - name: Solutions2AZ
     url: https://www.solutions2az.net
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
   - name: Solutions2AZ-es
     url: https://www.solutions2az.es
 # Disable the certificate check    
@@ -74,12 +70,19 @@ sites:
       - 200
       - 201
       - 404
+
+# SMS2AZ
+  - name: SMS2AZ - API
+    url: https://sms-api.solutions2az.net
+
 #   - name: Call2AZ - Main
 #     url: https://www.call2az.net
   - name: Call2AZ - Manager
     url: https://manager.call2az.net
   - name: Call2AZ - API
     url: https://manager-api.call2az.net/api/Info/VersionString
+  - name: Call2AZ - Checkout
+    url: https://checkout.solutions2az.net/api/Info/VersionString
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
