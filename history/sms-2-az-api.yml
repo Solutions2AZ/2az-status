@@ -1,7 +1,7 @@
 url: https://sms-api.solutions2az.net/swagger/v1/swagger.json
-status: down
-code: 404
-responseTime: 582
-lastUpdated: 2024-08-29T17:31:23.981Z
+status: up
+code: 200
+responseTime: 417
+lastUpdated: 2024-08-29T17:33:12.731Z
 startTime: 2024-08-29T17:03:46.529Z
 generator: Upptime <https://github.com/upptime/upptime>
