@@ -63,17 +63,18 @@ sites:
   - name: Solutions2AZ
     url: https://www.solutions2az.net
   - name: Solutions2AZ-es
-    url: https://www.solutions2az.es
+    url: http://www.solutions2az.es
 # Disable the certificate check    
     __dangerous__insecure: true
     expectedStatusCodes:
       - 200
       - 201
       - 404
+      - 301
 
 # SMS2AZ
   - name: SMS2AZ - API
-    url: https://sms-api.solutions2az.net/swagger/v1/swagger.json
+    url: https://sms-api.solutions2az.net/api/Info/VersionString
 
 #   - name: Call2AZ - Main
 #     url: https://www.call2az.net
