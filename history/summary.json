@@ -183,9 +183,9 @@
     "url": "https://www.solutions2az.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.solutions2az.es.ico",
     "slug": "solutions2-az-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -194,7 +194,9 @@
     "timeWeek": 317,
     "timeMonth": 285,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-30": 0
+    }
   },
   {
     "name": "SMS2AZ - API",
@@ -202,11 +204,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sms-api.solutions2az.net.ico",
     "slug": "sms-2-az-api",
     "status": "up",
-    "uptime": "95.67%",
-    "uptimeDay": "95.67%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "95.67%",
-    "uptimeYear": "95.67%",
+    "uptime": "95.71%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "95.71%",
+    "uptimeMonth": "95.71%",
+    "uptimeYear": "95.71%",
     "time": 610,
     "timeDay": 610,
     "timeWeek": 610,
