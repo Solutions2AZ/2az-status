@@ -148,9 +148,9 @@
     "url": "https://www.solutions2az.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.solutions2az.net.ico",
     "slug": "solutions2-az",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.86%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.58%",
@@ -160,6 +160,7 @@
     "timeMonth": 2038,
     "timeYear": 1862,
     "dailyMinutesDown": {
+      "2024-08-31": 1,
       "2024-08-29": 215,
       "2024-08-23": 394,
       "2024-08-01": 4,
@@ -183,10 +184,10 @@
     "url": "http://www.solutions2az.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.solutions2az.es.ico",
     "slug": "solutions2-az-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.04%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.03%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.91%",
     "time": 259,
@@ -195,6 +196,7 @@
     "timeMonth": 322,
     "timeYear": 259,
     "dailyMinutesDown": {
+      "2024-08-31": 1,
       "2024-08-30": 198
     }
   },
@@ -203,18 +205,19 @@
     "url": "https://sms-api.solutions2az.net/api/Info/VersionString",
     "icon": "https://icons.duckduckgo.com/ip3/sms-api.solutions2az.net.ico",
     "slug": "sms-2-az-api",
-    "status": "up",
-    "uptime": "95.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.86%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "95.86%",
+    "status": "down",
+    "uptime": "95.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "95.98%",
     "time": 631,
     "timeDay": 597,
     "timeWeek": 631,
     "timeMonth": 631,
     "timeYear": 631,
     "dailyMinutesDown": {
+      "2024-08-31": 1,
       "2024-08-30": 83,
       "2024-08-29": 29
     }
@@ -266,17 +269,19 @@
     "url": "https://checkout.solutions2az.net/api/Info/VersionString",
     "icon": "https://icons.duckduckgo.com/ip3/checkout.solutions2az.net.ico",
     "slug": "call2-az-checkout",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 613,
     "timeDay": 561,
     "timeWeek": 613,
     "timeMonth": 613,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-31": 1
+    }
   }
 ]
