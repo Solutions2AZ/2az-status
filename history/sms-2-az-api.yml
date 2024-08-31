@@ -1,7 +1,7 @@
 url: https://sms-api.solutions2az.net/api/Info/VersionString
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-31T15:50:24.404Z
+status: up
+code: 200
+responseTime: 431
+lastUpdated: 2024-08-31T15:55:44.713Z
 startTime: 2024-08-29T17:03:46.529Z
 generator: Upptime <https://github.com/upptime/upptime>
