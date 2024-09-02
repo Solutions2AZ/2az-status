@@ -71,7 +71,10 @@ sites:
       - 201
       - 404
       - 301
-
+  - name: Solutions2AZ CallCenter
+    url: https://callcenter.solutions2az.net
+  - name: Solutions2AZ PBX
+    url: https://pbx.solutions2az.net
 # SMS2AZ
   - name: SMS2AZ - API
     url: https://sms-api.solutions2az.net/api/Info/VersionString
@@ -84,6 +87,7 @@ sites:
     url: https://manager-api.call2az.net/api/Info/VersionString
   - name: Call2AZ - Checkout
     url: https://checkout.solutions2az.net/api/Info/VersionString
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
