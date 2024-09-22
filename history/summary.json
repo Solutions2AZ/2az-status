@@ -4,9 +4,9 @@
     "url": "https://www.llamarcuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.com.ico",
     "slug": "llamar-cuba-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 883,
     "timeYear": 820,
     "dailyMinutesDown": {
+      "2024-09-22": 0,
       "2024-06-10": 10,
       "2024-05-30": 5,
       "2024-05-16": 5
@@ -26,9 +27,9 @@
     "url": "https://www.llamarcuba.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.llamarcuba.es.ico",
     "slug": "llamar-cuba-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +38,9 @@
     "timeWeek": 426,
     "timeMonth": 447,
     "timeYear": 583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-22": 0
+    }
   },
   {
     "name": "ConectandoCuba",
