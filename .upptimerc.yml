@@ -6,10 +6,6 @@ repo: 2az-status
 
 sites:
 # Cuba
-  - name: LlamarCuba-com
-    url: https://www.llamarcuba.com
-  - name: LlamarCuba-es
-    url: https://www.llamarcuba.es
   - name: ConectandoCuba
     url: https://www.conectandocuba.com
   - name: HablandoACuba
