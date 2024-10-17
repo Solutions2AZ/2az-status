@@ -199,9 +199,9 @@
     "url": "https://intranet.armanext.com",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.armanext.com.ico",
     "slug": "intranet-armanext",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "98.71%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "98.85%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "98.85%",
@@ -211,7 +211,7 @@
     "timeMonth": 622,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2024-10-17": 19
+      "2024-10-17": 20
     }
   }
 ]
