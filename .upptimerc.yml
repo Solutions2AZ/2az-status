@@ -38,8 +38,8 @@ sites:
   - name: Solutions2AZ PBX
     url: https://pbx.solutions2az.net
 # SMS2AZ
-  - name: SMS2AZ - API
-    url: https://sms-api.solutions2az.net/api/Info/VersionString
+#  - name: SMS2AZ - API
+#    url: https://sms-api.solutions2az.net/api/Info/VersionString
 
 #   - name: Call2AZ - Main
 #     url: https://www.call2az.net
