@@ -53,7 +53,9 @@ sites:
     url: https://intranet.polaris.es
   - name: Intranet Armanext
     url: https://intranet.armanext.com
-  
+    expectedStatusCodes:
+      - 200
+      - 0  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
