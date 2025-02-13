@@ -49,6 +49,11 @@ sites:
     url: https://manager-api.call2az.net/api/Info/VersionString
   - name: Call2AZ - Checkout
     url: https://checkout.solutions2az.net/api/Info/VersionString
+  - name: Intranet Demo WorkerManager2AZ
+    url: https://demo.workermanager2az.solutions2az.net
+    expectedStatusCodes:
+      - 200
+      - 0  
   - name: Intranet Polaris
     url: https://intranet.polaris.es
   - name: Intranet Armanext
@@ -66,6 +71,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 0  
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
