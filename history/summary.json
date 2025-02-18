@@ -207,10 +207,10 @@
     "url": "https://intranet.polaris.es",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.polaris.es.ico",
     "slug": "intranet-polaris",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 794,
@@ -218,7 +218,9 @@
     "timeWeek": 735,
     "timeMonth": 751,
     "timeYear": 794,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-18": 1
+    }
   },
   {
     "name": "Intranet Armanext",
