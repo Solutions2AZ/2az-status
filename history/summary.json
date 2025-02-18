@@ -207,19 +207,19 @@
     "url": "https://intranet.polaris.es",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.polaris.es.ico",
     "slug": "intranet-polaris",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 794,
-    "timeDay": 751,
-    "timeWeek": 735,
-    "timeMonth": 751,
+    "timeDay": 737,
+    "timeWeek": 733,
+    "timeMonth": 750,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2025-02-18": 1
+      "2025-02-18": 5
     }
   },
   {
