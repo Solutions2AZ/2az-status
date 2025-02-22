@@ -71,7 +71,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 0  
-  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -87,6 +86,10 @@ status-website:
       href: /2az-status/
     - title: Solutions2AZ
       href: https://www.solutions2az.net
+
+  metaTags:
+    - name: "robots"
+      content: "noindex"
 
 # Issues are automatically closed once they are resolved, however if they are open for less 
 # than 15 minutes they are deleted instead.
