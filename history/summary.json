@@ -52,10 +52,10 @@
     "url": "http://www.solutions2az.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.solutions2az.es.ico",
     "slug": "solutions2-az-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 800,
@@ -64,6 +64,7 @@
     "timeMonth": 940,
     "timeYear": 820,
     "dailyMinutesDown": {
+      "2025-06-05": 1,
       "2025-02-13": 21,
       "2024-08-31": 5,
       "2024-08-30": 198
