@@ -35,7 +35,7 @@
     "timeDay": 604,
     "timeWeek": 619,
     "timeMonth": 620,
-    "timeYear": 1012,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2025-06-05": 14,
       "2025-02-13": 21,
@@ -76,10 +76,10 @@
     "url": "https://callcenter.solutions2az.net",
     "icon": "https://icons.duckduckgo.com/ip3/callcenter.solutions2az.net.ico",
     "slug": "solutions2-az-call-center",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 860,
@@ -88,6 +88,7 @@
     "timeMonth": 852,
     "timeYear": 860,
     "dailyMinutesDown": {
+      "2025-06-05": 1,
       "2025-04-28": 8,
       "2025-02-13": 21
     }
