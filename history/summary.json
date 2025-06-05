@@ -76,11 +76,11 @@
     "url": "https://callcenter.solutions2az.net",
     "icon": "https://icons.duckduckgo.com/ip3/callcenter.solutions2az.net.ico",
     "slug": "solutions2-az-call-center",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 860,
     "timeDay": 829,
@@ -88,7 +88,7 @@
     "timeMonth": 851,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2025-06-05": 2,
+      "2025-06-05": 3,
       "2025-04-28": 8,
       "2025-02-13": 21
     }
