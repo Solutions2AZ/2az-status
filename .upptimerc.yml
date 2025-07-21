@@ -50,6 +50,9 @@ sites:
   - name: Call2AZ - Checkout
     url: https://checkout.solutions2az.net/api/Info/VersionString
 
+  - name: AhoraFicho.es
+    url: https://www.ahoraficho.es
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
