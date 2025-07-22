@@ -177,17 +177,19 @@
     "url": "https://www.ahoraficho.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.ahoraficho.es.ico",
     "slug": "ahora-ficho-es",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 807,
-    "timeWeek": 807,
-    "timeMonth": 807,
-    "timeYear": 807,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 782,
+    "timeDay": 782,
+    "timeWeek": 782,
+    "timeMonth": 782,
+    "timeYear": 782,
+    "dailyMinutesDown": {
+      "2025-07-22": 2
+    }
   }
 ]
