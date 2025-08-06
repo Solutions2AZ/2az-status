@@ -52,6 +52,12 @@ sites:
 
   - name: AhoraFicho.es
     url: https://www.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 301
+      - 415
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
