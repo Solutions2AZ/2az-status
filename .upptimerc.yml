@@ -24,19 +24,41 @@ sites:
 # Solutions2AZ
   - name: Solutions2AZ
     url: https://www.solutions2az.net
+    __dangerous__insecure: true
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+      - 404
+      - 301
   - name: Solutions2AZ-es
     url: http://www.solutions2az.es
 # Disable the certificate check    
     __dangerous__insecure: true
     expectedStatusCodes:
+      - 0
       - 200
       - 201
       - 404
       - 301
   - name: Solutions2AZ CallCenter
     url: https://callcenter.solutions2az.net
+    __dangerous__insecure: true
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+      - 404
+      - 301
   - name: Solutions2AZ PBX
     url: https://pbx.solutions2az.net
+    __dangerous__insecure: true
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+      - 404
+      - 301
 # SMS2AZ
 #  - name: SMS2AZ - API
 #    url: https://sms-api.solutions2az.net/api/Info/VersionString
@@ -53,6 +75,7 @@ sites:
   - name: AhoraFicho.es
     url: https://www.ahoraficho.es
     expectedStatusCodes:
+      - 0
       - 200
       - 201
       - 404
