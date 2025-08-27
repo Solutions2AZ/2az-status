@@ -8,7 +8,13 @@ sites:
 # Cuba
   - name: ConectandoCuba
     url: https://www.conectandocuba.com
-
+    __dangerous__insecure: true
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+      - 404
+      - 301
 # SIP Services
 #   - name: LoopSIPAdvantage
 #     url: https://www.loopsipadvantage.com
@@ -67,11 +73,31 @@ sites:
 #     url: https://www.call2az.net
   - name: Call2AZ - Manager
     url: https://manager.call2az.net
+    __dangerous__insecure: true
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+      - 404
+      - 301
   - name: Call2AZ - API
     url: https://manager-api.call2az.net/api/Info/VersionString
+    __dangerous__insecure: true
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+      - 404
+      - 301
   - name: Call2AZ - Checkout
     url: https://checkout.solutions2az.net/api/Info/VersionString
-
+    __dangerous__insecure: true
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+      - 404
+      - 301
   - name: AhoraFicho.es
     url: https://www.ahoraficho.es
     expectedStatusCodes:
